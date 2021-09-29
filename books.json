@@ -179,7 +179,7 @@
     "asin": "B07C7ZLZRT",
     "author": "Freud, Sigmund,",
     "title": "Civilization and Its Discontents (Kindle Edition)",
-    "sync_date": "2021-09-28",
+    "sync_date": "2021-09-29",
     "highlights": [
       {
         "id": "3e50140bb64cd6b08ed72d1f5004e4035edc68302cf98dbcee3a7761571ae639",
@@ -350,6 +350,64 @@
         "id": "d436c631027574e6547f050dcadcd8bb1266b8ea636e3683c66bfdb32541db46",
         "location": "1166",
         "text": "Conscience is the result of instinctual renunciation, or: Renunciation (externally imposed) gives rise to conscience, which then demands further renunciations."
+      },
+      {
+        "id": "489df043b8d5f3257ebc1300464e2c628ad11a7406709ed0f7d5a9b0428413ea",
+        "location": "1273",
+        "text": "Our patients do not believe us when we ascribe an unconscious sense of guilt to them; in order to become even moderately intelligible to them, we have to explain that the sense of guilt expresses itself in an unconscious seeking for punishment."
+      },
+      {
+        "id": "24532a351d3df798b8e76b56c4727ac4e374e364890a18c384385d4bbb3bf88b",
+        "location": "1284",
+        "text": "The different religions, at any rate, have never overlooked the part played by the sense of guilt in civilization. What is more, they come forward with a claim, which I have not considered elsewhere,34 to save mankind from this sense of guilt, which they call sin."
+      },
+      {
+        "id": "3d73caab9d848e2e1db2d513d8857f617ff8a447dde7f4dc8d4ff6cc4713975d",
+        "location": "1303",
+        "text": "The super-ego is an agency or institution in the mind whose existence we have inferred: Conscience is a function we ascribe, among others, to the super-ego; it consists of watching over and judging the actions and intentions of the ego, exercising the functions of a censor."
+      },
+      {
+        "id": "15ab2eb83f8b163780687eb7ed6bece785b7f925ce9046fac42ab463e2023f27",
+        "location": "1308",
+        "text": "the need for punishment, is an instinctual manifestation on the part of the ego, which has become masochistic under the influence of the sadistic super-ego, i.e., which has brought a part of the instinct of destruction at work within itself into the service of an erotic attachment to the super-ego."
+      },
+      {
+        "id": "74bc7209160e89b08976bc8d497a180c9f0532ccb72214975ef7a51feddd97cc",
+        "location": "1383",
+        "text": "Just as a planet circles round its central body, while at the same time rotating on its own axis, so the individual man takes his part in the course of humanity’s development as he goes on his way through life."
+      },
+      {
+        "id": "3755966e4db74d12c768758306adfbb8ea86848841b08d3029fac6adcae7d24d",
+        "location": "1393",
+        "text": "It can be maintained that the community, too, develops a super-ego, under whose influence cultural evolution proceeds."
+      },
+      {
+        "id": "69d0f2d3a531c8094a596c2a7dbff99a5283f7e4a0847aac2a2e153ff58024e0",
+        "location": "1422",
+        "text": "even in so-called normal people the power of controlling the id cannot be increased beyond certain limits."
+      }
+    ]
+  },
+  {
+    "asin": "B00B2S5SOM",
+    "author": "Samuel Beckett",
+    "title": "Waiting for Godot (MAXNotes Literature Guides)",
+    "sync_date": "2021-09-29",
+    "highlights": [
+      {
+        "id": "6fa2db78926123600a3d8746a6ed93c4d02d8dcbc7d001536bc7db1c0550e9c5",
+        "location": "71",
+        "text": "“My work is a matter of fundamental sounds (no joke intended) made as fully as possible, and I accept responsibility for nothing else. If people want to have headaches among the overtones, let them. And provide their own aspirin.”"
+      },
+      {
+        "id": "c116f148abfd8b26946313404e5cff4e82ef0f3fb5099ad1818d7ac387ac1f08",
+        "location": "106",
+        "text": "Beckett’s characters live in a world that no longer makes sense, that has no God, and offers no easy answers or solutions."
+      },
+      {
+        "id": "3a888cf0aa80f32a5d3198c74b1996ccddccb9d861109660f4399612d7a1f777",
+        "location": "161",
+        "text": "“The best possible play is one in which there are no actors, only the text. I’m trying to think of a way to write one,”"
       }
     ]
   },
