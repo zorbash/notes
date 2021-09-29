@@ -1,5 +1,108 @@
 [
   {
+    "asin": "0-679-76288-4",
+    "author": "Andy Grove",
+    "title": "High Output Management",
+    "sync_date": "2021-09-29",
+    "highlights": [
+      {
+        "id": "e7c676f9c7bbb3cb37e5564e3bf977d12b3ee4f9f8a230231bbb7801b6f18b30",
+        "location": 17,
+        "text": "A genuinely effective indicator will cover the output of the work unit and not simply the activity involved.\n"
+      },
+      {
+        "id": "31eb443c4a96d12e628af55ca2d6e9702d6452af58f6ff926ca56c45263b5d49",
+        "location": 30,
+        "text": "In date-like inspection, all material is held at the \"gate\" until the inspection tests are completed. If the material passes, it is moved on to the next stage in production process.\n"
+      },
+      {
+        "id": "90c23165567a6f576e5e249585595fde81c637e16388a4298adbb8b8aa703bc4",
+        "location": 35,
+        "text": "Automation is certainly one way to improve the leverage of all types of work. This is called work simplification. To get leverage this way you first need to create a flow chart of the production process as it exists. To implement the actual simplification, you must question why each step is performed.\n"
+      },
+      {
+        "id": "bce4b95fc6fd4725e44736a3e98f3ddca78312803a26ffdfa26851e2f2db6d72",
+        "location": 59,
+        "text": "Delegation is an essential aspect of management. The \"delegator\" and \"delegatee\" must share a common information base and a a common set of operational ideas or notions on how to go about solving problems.\n"
+      },
+      {
+        "id": "215a00fe0838a95dea4526e99db5faec7221eb33d9d1e11f856b0a6be598f513",
+        "location": 60,
+        "text": "Even after you delegate it, you are still responsible for its accomplishment, and monitoring the delegated task is the only practical way for you to ensure a result.\n"
+      },
+      {
+        "id": "229e3f4fe36e34cc4e9204914ddb969e2ac9c46593355793ec1fcfdc1b49fea6",
+        "location": 63,
+        "text": "What is the medium of a manager's forecast? It is something very simple: his calendar.\n"
+      },
+      {
+        "id": "2759213024275509a2455e0538243cc9e7b2f10fb7e49619e254c21096d1c896",
+        "location": 66,
+        "text": "As a rule of thumb, a manager whose work is largely supervisory should have six to eight subordinates; three or four are too few and ten are too many.\n"
+      },
+      {
+        "id": "1ec3ac70cf38b0ffacbddaa592ab67f26796b76bb27e3609954b8c2c574008ae",
+        "location": 69,
+        "text": "About twenty middle managers at Intel were once asked to be part of an experiment. After pairing up, they tried some role-playing in which one manager was to define the problem most limiting his output and the other was to be a consultant who would analyze the problem and propose solutions.\n"
+      },
+      {
+        "id": "880724d4a5d69a997311d5aff4f20aaa1dff51f740485deaf9845a98ff194ccb",
+        "location": 72,
+        "text": "Process-Oriented Meetings The prople attending should know how the meeting is run, what kinds of substantive matters are discussed, and what is to be accomplished.\n"
+      },
+      {
+        "id": "76db3a12b77d3f9937a7ef9ea23b30a1d2a17453b4ff64689f2dfc9432fa6bbb",
+        "location": 75,
+        "text": "A key point about a one-on-one: It should be regarded as the subordinate's meeting, with its agenda and tone set by him. They should be asked to prepare an outline, which is very important becasue it forces them to think through in advance all of the issues and points they plan to raise.\n"
+      },
+      {
+        "id": "44b440ab001f3cca9cffe9c6cddc9ecbf845ab966fe79b7edc6b21886c9a6b60",
+        "location": 75,
+        "text": "A supervisor should never use staff meetings to pontificate, which is the surest way to undermine free discussion and hence the meeting's basic purpose.\n"
+      },
+      {
+        "id": "1fbab9eead39ff7b5fcf511260b8e41f2ef8c0bdf2dcc7392ab8cb17ab3ae06c",
+        "location": 83,
+        "text": "I would recommend four minutes of presentation and discussion time per visual aid, which can include tables, numbers or graphics.\n"
+      },
+      {
+        "id": "f7b191aa5c1328964e7d654276bcc0f766fc3693cc355e40fe1883f91f3c9019",
+        "location": 84,
+        "text": "Remember, you are being paid to attend the meeting.\n"
+      },
+      {
+        "id": "ba312306c81aac824a005e0a07625d96aea8187b130c0d2cbc22ac00711bb0f0",
+        "location": 85,
+        "text": "A meeting involving ten managers for two hours costs the company $2000. Just as you would not permit a fellow employee to steal a piece of office equipment worth $2000, you shouldn't let anyone walk away with the time of this fellow managers.\n"
+      },
+      {
+        "id": "8efd115df7e76476be4ab1b64757fbed7f6254a4d3094c35b7e8c616b2839bbb",
+        "location": 87,
+        "text": "Once the meeting is over, the chairman must nail down exactly what happened by sending out minutes that summarize the discussion that occurred, the decision made, and the actions to be taken. The minutes shoudl also be as clear and as specific as possible, telling the reader what is to be done, who is to do it, and when.\n"
+      },
+      {
+        "id": "14fb1d9cc6c77bd70bf84752ceded9effd098d534d89c3ee6cf926b14a0dfc6e",
+        "location": 87,
+        "text": "Peter Drucker said that if people spend more thatn 25 percent of their time in meetings, it is a sing of malorganization.\n"
+      },
+      {
+        "id": "3a1c815b828f1ed686cdb1ca96daf2e6f0fc96ea2fae909e20a119cdfff8bdb6",
+        "location": 89,
+        "text": "Put another way, even if today's veteran manager was once an outstanding engineer, he is not now the technical expert he was when he joined the company. At Intel, anyway, we managers get a little more obsolete every day.\n"
+      },
+      {
+        "id": "17f9ef38cc5b41dc9f1269b8baf3158d0d9603d6e42c2b517f940bd6ec0945a0",
+        "location": 89,
+        "text": "If your business depends on what it knows to survive and prosper, what decision-making mechanism should you use?\n"
+      },
+      {
+        "id": "ec663b20d255c3e32685ed6853dbc1c0b154d952e23ae1f5b298ebf1a6750907",
+        "location": 92,
+        "text": "It is very important that everybody voice opinions and beliefs as equals throughout the free discussion stage, forgetting or ignoring status differentials.\n"
+      }
+    ]
+  },
+  {
     "asin": "978-618-5076-12-2",
     "author": "Jacques Lacan",
     "title": "Je parle aux murs",

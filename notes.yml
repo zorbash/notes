@@ -1,3 +1,117 @@
+# The asin is the ISBN for non-Kindle books.
+
+-
+  asin: 0-679-76288-4
+  title: High Output Management
+  author: Andy Grove
+  highlights:
+    -
+      location: 17
+      text: >
+        A genuinely effective indicator will cover the output of the work unit and not simply
+        the activity involved.
+    -
+      location: 30
+      text: >
+        In date-like inspection, all material is held at the "gate" until the inspection
+        tests are completed. If the material passes, it is moved on to the next stage in
+        production process.
+    -
+      location: 35
+      text: >
+        Automation is certainly one way to improve the leverage of all types of work.
+        This is called work simplification. To get leverage this way you first need to create
+        a flow chart of the production process as it exists.
+        To implement the actual simplification, you must question why each step is performed.
+    -
+      location: 59
+      text: >
+        Delegation is an essential aspect of management. The "delegator" and "delegatee" must
+        share a common information base and a a common set of operational ideas or notions
+        on how to go about solving problems.
+    -
+      location: 60
+      text: >
+        Even after you delegate it, you are still responsible for its accomplishment, and
+        monitoring the delegated task is the only practical way for you to ensure a result.
+    -
+      location: 63
+      text: >
+        What is the medium of a manager's forecast? It is something very simple: his calendar.
+    -
+      location: 66
+      text: >
+        As a rule of thumb, a manager whose work is largely supervisory should have six to
+        eight subordinates; three or four are too few and ten are too many.
+    -
+      location: 69
+      text: >
+        About twenty middle managers at Intel were once asked to be part of an experiment.
+        After pairing up, they tried some role-playing in which one manager was to define the
+        problem most limiting his output and the other was to be a consultant who would
+        analyze the problem and propose solutions.
+    -
+      location: 72
+      text: >
+        Process-Oriented Meetings
+        The prople attending should know how the meeting is run, what kinds of substantive
+        matters are discussed, and what is to be accomplished.
+    -
+      location: 75
+      text: >
+        A key point about a one-on-one: It should be regarded as the subordinate's meeting,
+        with its agenda and tone set by him. They should be asked to prepare an outline,
+        which is very important becasue it forces them to think through in advance all
+        of the issues and points they plan to raise.
+    -
+      location: 75
+      text: >
+        A supervisor should never use staff meetings to pontificate, which is the surest
+        way to undermine free discussion and hence the meeting's basic purpose.
+    -
+      location: 83
+      text: >
+        I would recommend four minutes of presentation and discussion time per visual aid,
+        which can include tables, numbers or graphics.
+    -
+      location: 84
+      text: >
+        Remember, you are being paid to attend the meeting.
+    -
+      location: 85
+      text: >
+        A meeting involving ten managers for two hours costs the company $2000.
+        Just as you would not permit a fellow employee to steal a piece of office equipment
+        worth $2000, you shouldn't let anyone walk away with the time of this fellow managers.
+    -
+      location: 87
+      text: >
+        Once the meeting is over, the chairman must nail down exactly what happened
+        by sending out minutes that summarize the discussion that occurred, the decision made,
+        and the actions to be taken. The minutes shoudl also be as clear and as specific
+        as possible, telling the reader what is to be done, who is to do it, and when.
+    -
+      location: 87
+      text: >
+        Peter Drucker said that if people spend more thatn 25 percent of their time in
+        meetings, it is a sing of malorganization.
+    -
+      location: 89
+      text: >
+        Put another way, even if today's veteran manager was once an outstanding engineer,
+        he is not now the technical expert he was when he joined the company.
+        At Intel, anyway, we managers get a little more obsolete every day.
+    -
+      location: 89
+      text: >
+        If your business depends on what it knows to survive and prosper, what decision-making
+        mechanism should you use?
+    -
+      location: 92
+      text: >
+        It is very important that everybody voice opinions and beliefs as equals throughout
+        the free discussion stage, forgetting or ignoring status differentials.
+
 -
   asin: 978-618-5076-12-2
   title: Je parle aux murs
