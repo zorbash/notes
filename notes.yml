@@ -1,6 +1,77 @@
 # The asin is the ISBN for non-Kindle books.
 
 -
+  asin: 978-0-241-33912-1
+  title: Create Dangerously
+  author: Albert Camus
+  highlights:
+    -
+      location: 3
+      text: >
+        To create today is to create dangerously. Any publication is an act, and that
+        act exposes one to the passions of an age that forgives nothing.
+    -
+      location: 6
+      text: >
+        In the face of so much suffering, if art insists on being a luxury, it will also
+        be a lie.
+    -
+      location: 7
+      text: >
+        I have always thought there were two kinds of intelligence - intelligent intelligence
+        and stupid intelligence.
+    -
+      location: 8
+      text: >
+        A fashionable society in which all troubles were money troubles and all worries
+        were sentimental worries was satisfied for decades with its society novelists and
+        with the most futile art in the world, the one about which Oscar Wilde, thinking
+        of himself before he knew prison, said that the greatest of all vices was
+        superficiality.
+    -
+      location: 13
+      text: >
+        Art canot be a monologue.
+    -
+      location: 13
+      text: >
+        The sea, rains, necessity, desire, the struggle against death - there are the things
+        that unit us all. We resemble one another in what we see together, in what
+        we suffer together.
+    -
+      location: 15
+      text: >
+        There is but one possible realistic film: the one that is constantly shown us
+        by an invisible camera on the world's screen. The only realistic artist, then,
+        is God, if he exists. All other artists are ipso facto, unfaithful to reality.
+    -
+      location: 16
+      text: >
+        How, indeed, is a socialistic realism possible when reality is not altogether
+        socialistic?
+    -
+      location: 19
+      text: >
+        Barbarism is never temporary.
+    -
+      location: 28
+      text: >
+        Art lives only on the constraints it imposes on itself; it dies of all others.
+    -
+      location: 38
+      text: >
+        The intellectual is a dangerous animal ever ready to betray.
+    -
+      location: 43
+      text: >
+        Freedom is the concern of the oppressed, and her natural protectors have always
+        come from among the oppressed.
+    -
+      location: 52
+      text: >
+        Freedom is not made up principally of privileges; it is made up especially of duties.
+
+-
   asin: 0-679-76288-4
   title: High Output Management
   author: Andy Grove
