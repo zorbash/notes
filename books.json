@@ -7380,12 +7380,22 @@
     "asin": "B01IAB08Z2",
     "author": "Friedrich Nietzsche",
     "title": "THUS SPOKE ZARATHUSTRA",
-    "sync_date": "2021-10-03",
+    "sync_date": "2021-10-06",
     "highlights": [
       {
         "id": "b7f1fd2575c8bdd839276110c828bb878573ba829a195bbb9f0ead3460005569",
         "location": "148",
         "text": "“How can one praise and glorify a nation as a whole?—Even among the Greeks, it was the individuals that counted.” “The Greeks are interesting and extremely important because they reared such a vast number of great individuals. How was this possible? The question is one which ought to be studied."
+      },
+      {
+        "id": "a556eb9aedb4f755a635ccfb087afff9c7ffdbaad753d6de162b38c84315a356",
+        "location": "379",
+        "text": "Man is something that is to be surpassed. What have ye done to surpass man?"
+      },
+      {
+        "id": "127b9a1b1116b6482bf062535f6610805585bf61e024581f5b3a3800c830fac8",
+        "location": "411",
+        "text": "Man is a rope stretched between the animal and the Superman—a rope over an abyss."
       }
     ]
   },
