@@ -2084,7 +2084,7 @@
     "asin": "B004DUMW3G",
     "author": "Stewart Brand",
     "title": "Whole Earth Discipline",
-    "sync_date": "2021-10-10",
+    "sync_date": "2021-10-22",
     "highlights": [
       {
         "id": "697b9b97b523d875f8ec86f85b1fe9b9e85ecaa62004a3ed7e675cca35907a5c",
@@ -2125,6 +2125,71 @@
         "id": "da8464819e87645060a8372c221f714e11faa8abf8bdcc011c1d3d7f635ed0e7",
         "location": "464",
         "text": "Every week there are 1.3 million new people in cities. That’s 70 million a year, decade after decade. It is the largest movement of people in history."
+      },
+      {
+        "id": "cb3d3f80e367c73095d93707c11a0d170fab2feb9edbeac198c55a5bf2643a9b",
+        "location": "851",
+        "text": "The lesson I draw is that any practice that leads to treating houses mainly as property tends to destroy community, and any practice that treats them mainly as homes preserves community."
+      },
+      {
+        "id": "b86e521e8570bd15374b4c1a22f276830b5416a84b008dd0a1f9effa7a8f4d48",
+        "location": "923",
+        "text": "Cellphones are the first telecommunications technology in history to have more users in the developing world than in the West.”"
+      },
+      {
+        "id": "d0182fad192cb289958b42612b029baa738d10badb9773ffadb0db34cd57fa9b",
+        "location": "1020",
+        "text": "“There’s a very odd phenomenon which seems to be a cultural invariant: once women gain economic independence, they do not reproduce our species.”"
+      },
+      {
+        "id": "e86bf5a13632ce8bc1fd4f8a612e7ff26b47906bffc356cc01d6540a9ad23246",
+        "location": "1045",
+        "text": "The average Russian woman has seven abortions."
+      },
+      {
+        "id": "cea8cf748a815b1bc5b01359eb89bc4418e3557d5ceee56bed6a44b794d5953f",
+        "location": "1050",
+        "text": "In Russia, adult male mortality in every age group from 15 to 64 has increased 40 percent-plus since the end of Communism."
+      },
+      {
+        "id": "dc25777f0d7f9fe6b147aa05818457e20ac7035acb5c32d7dea982cc1a34590d",
+        "location": "1190",
+        "text": "The most dramatic gains can come from simply making everything white. A white roof saves the building’s tenant 20 percent in cooling costs;"
+      },
+      {
+        "id": "8c4c918ca1f9ea1797b39973b6ff27d35ce55508de750fa4326edb81830b537c",
+        "location": "1216",
+        "text": "The Thames Barrier protecting London from flood tides was raised twenty-seven times between 1986 and 1996, and sixty-six times between 1996 and 2006. Some are forecasting that it will be overwhelmed by 2030."
+      },
+      {
+        "id": "a3924161d06e9549044784f4c9838a8167fe83694962c1fe8ff47593547f70b4",
+        "location": "1248",
+        "text": "With climate change, those who know the most are the most frightened. With nuclear power, those who know the most are the least frightened."
+      },
+      {
+        "id": "485054ceb537c908d16ded6a1410e3ad62803a4fd25197c2f787dde0aa56a424",
+        "location": "1358",
+        "text": "The air pollution from coal burning is estimated to cause 30,000 deaths a year from lung disease in the United States, and 350,000 a year in China."
+      },
+      {
+        "id": "bc344225ffdd35a70b91be8efad5ac074689665f5a7d117f2f008d30f121f264",
+        "location": "1557",
+        "text": "“The world’s worst nuclear power plant disaster is not as destructive to wildlife populations as are normal human activities.”"
+      },
+      {
+        "id": "24dc645262c893fa7c4d97ae0f729c972a30b779f2324849d9607d38cc46bbe4",
+        "location": "1568",
+        "text": "The surest way to prevent cancer is the traditional method: Die younger of something else."
+      },
+      {
+        "id": "69f8fc76ca941892a9f759ce9526750fe44a5fd08145fdbb1f983f7aa4cdb028",
+        "location": "1658",
+        "text": "The problem is not that nuclear is expensive. The problem is that coal is cheap."
+      },
+      {
+        "id": "46f3b28ad953db034ceaad72e9c14f9a40643c9418323e1f1b50be3bebea528f",
+        "location": "1714",
+        "text": "A 1-gigawatt coal-fired plant burns eighty rail cars of coal a day, each car carrying 100 tons of coal."
       }
     ]
   },
